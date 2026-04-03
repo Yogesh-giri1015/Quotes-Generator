@@ -1,0 +1,35 @@
+body{
+    color: aliceblue;
+    background-color: #e0e8ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding:o;
+    margin: 0;
+
+}
+h1{
+    color:blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#container{
+    background-color: black;
+    height: 40vh;
+    width: 100vh;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 50px;
+    border-radius: 20px;
+}
+#generator {
+    border-radius:10px ;
+        background-color: rgb(2, 2, 16);
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+        padding-left: 50px;
+        padding-top: 20px;
+}
